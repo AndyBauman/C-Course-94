@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\C-Course-94\C-Course-94\bin\Debug\C-Course-94.exe.config
+C:\Users\Student\source\repos\C-Course-94\C-Course-94\bin\Debug\C-Course-94.exe
+C:\Users\Student\source\repos\C-Course-94\C-Course-94\bin\Debug\C-Course-94.pdb
+C:\Users\Student\source\repos\C-Course-94\C-Course-94\obj\Debug\C-Course-94.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\C-Course-94\C-Course-94\obj\Debug\C-Course-94.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\C-Course-94\C-Course-94\obj\Debug\C-Course-94.exe
+C:\Users\Student\source\repos\C-Course-94\C-Course-94\obj\Debug\C-Course-94.pdb
